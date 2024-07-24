@@ -4,7 +4,7 @@
 
 ## Features
 
-- Scrape news articles from Google News RSS feeds.
+- Scrape news articles from Google News.
 - Filter news articles based on specified date ranges.
 - Search for news articles using customizable keywords with AND/OR logic.
 - Save the scraped news data to an Excel file.
