@@ -20,5 +20,5 @@ The scrape_company_news function will generate an Excel file specified by output
 
 ## Clarification
 - After testing, this version of the R package has high network and bandwidth requirements, so I'm trying to further optimise the code structure to make it work more consistently.
-- Considering that this R package relates to my work project, I can't have open access to this R package until I finish this project.
+- Considering that this R package relates to my working project, I can't have open access to this R package until I finish this project.
 - If you are interested in this R package, you can contact me directly, my email is LingYUAN1201@outlook.com
