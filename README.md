@@ -1,6 +1,6 @@
 # NewsScraper
 
-`NewsScraper` is an R package designed to scrape news articles for specified companies within a given date range and save the results to an Excel file.   This package is particularly useful for researchers and analysts who need to gather and analyze news data related to specific companies and topics.
+`NewsScraper` is an R package designed to scrape news articles for specified companies within a given date range and save the results to an Excel file.  This package is particularly useful for someone who need to gather and analyze news data related to specific companies and topics.
 
 ## Features
 
